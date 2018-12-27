@@ -1,7 +1,7 @@
-# sample page
+# regex test page
 - http://js.wakastream.jp/regex.html
 
-# pattern
+# regex pattern
 complated!!
 ```javascript
 ^(\[([1-9][0-9]*|0)(\.\.([1-9][0-9]*|0))?\](( *, *(?=\[[\]\[ ,.0-9]+\]$))|$))+$
